@@ -4,6 +4,7 @@ Tested with Python >=3.6
 By: JOR
     v0.1 20AUG20
 """
+#import modules
 import ftplib
 import settings.ftp as settings
 # Make the connection
