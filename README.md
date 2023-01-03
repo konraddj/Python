@@ -2,7 +2,7 @@
 ## A Practical Guide to Python Scripting ##
 ![img.png](PythonPracticeExercises.png)
 
-This study will help understand scripting in the Python programming language. There are 12 Walkthroughs included, each containing separate scripting files, an effort has been made to comment each of the codes. These tasks were part of the Infrastructure as Code module from PGdip in Cloude Computing at Atlantic Technological University.
+This study will help understand scripting in the Python programming language. There are 12 Walkthroughs included, each containing separate scripting files, an effort has been made to comment each of the codes. Directories starting with the name "Exercises_" and subordinate to walkthroughs numbers. These tasks were part of the Infrastructure as Code module from PGdip in Cloude Computing at Atlantic Technological University.
 #
 ## Getting Started ##
 Python version 3.10 is required to run all scripts correctly.
